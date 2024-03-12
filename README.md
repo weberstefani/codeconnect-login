@@ -2,7 +2,7 @@
 
 Página de login para uma rede social para pessoas desenvolvedoras chamada CodeConnect, para o curso de React: componentes e JSX, na plataforma Alura Cursos.
 
-![alt text](image.png)
+![image](https://github.com/weberstefani/codeconnect-login/assets/123468744/e1a0d0af-e6ab-413c-9c96-2f71859e4599)
 
 ## 🔨 Funcionalidades do projeto
 
